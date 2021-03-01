@@ -36,6 +36,9 @@
 * [Git] - Version Control Github and Bitbuckets
 * [VisualStudioCode]
 
+## Lates Vlogs
+* [5 reasons to learn coding](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
+
 ## Contributing
 Let's talk.
 
