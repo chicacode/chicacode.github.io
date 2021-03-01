@@ -41,7 +41,7 @@
 * [5 reasons to learn to code](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
 * [What is an algorithm?](https://www.youtube.com/watch?v=DaQ2ygcJ9N0&ab_channel=CHICACODE)
 * [How to start programming?](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
-* [What is programming?](https://www.youtube.com/watch?v=kp7oYOlg_IM&t=408s&ab_channel=CHICACODE)
+* [What is a programming language?](https://www.youtube.com/watch?v=kp7oYOlg_IM&t=408s&ab_channel=CHICACODE)
 ## Contributing
 Let's talk.
 
