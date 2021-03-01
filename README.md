@@ -37,8 +37,11 @@
 * [VisualStudioCode]
 
 ## Lates Vlogs
-* [5 reasons to learn coding](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
-
+* [Build an e-commerce](https://www.youtube.com/watch?v=3NQxzmohmF0&ab_channel=CHICACODE)
+* [5 reasons to learn to code](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
+* [What is an algorithm?](https://www.youtube.com/watch?v=DaQ2ygcJ9N0&ab_channel=CHICACODE)
+* [How to start programming?](https://www.youtube.com/watch?v=OTTeAAq-v0I&t=5s&ab_channel=CHICACODE)
+* [What is programming?](https://www.youtube.com/watch?v=kp7oYOlg_IM&t=408s&ab_channel=CHICACODE)
 ## Contributing
 Let's talk.
 
