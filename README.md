@@ -24,14 +24,15 @@
 * [CSS3] - Awesome
 * [SASS] - Faster
 * [JavaScript] - Always for the web
-* [jQuery] - duh
+* [jQuery] - Duh
 * [React] - FB
 * [TypeScript] - Baby C#
 * [Angular] - Google
-* [NodeJs] - Chrome
+* [NodeJs] - Runtime built on Chrome V8 Js engine
 * [MongoDB] - No relational
 * [SQLServer] - Relationals
 * [MySQL] - Relationals
+* [Webpack] - Module bundler
 * [Git] - Version Control Github and Bitbuckets
 * [VisualStudioCode]
 
