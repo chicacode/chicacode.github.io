@@ -1,6 +1,11 @@
-# Chicacode Portfolio
+# Hey there:wave:! I'm Geraldine known as chicacode. Welcome to my portfolio!
 
-Hi! I'm Geraldine. Welcome to my portfolio
+* I'm a Frelance Full Stack Developer, with passion for programming and user experience
+* I can help you build your website
+* My background is in Psychology which bring perspective on user experience
+* I love writing code and solving problems
+* I'm open to collaborate with you
+* **My Goal:** Focus on work as a developer providing technology solutions 
 
 ## Installation
 
