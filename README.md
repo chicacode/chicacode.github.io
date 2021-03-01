@@ -39,6 +39,6 @@
 Let's talk.
 
 ## Contact me on
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/geraldinealattrach/)
 ## Created by 
 Geraldine Hernandez Al Attrach
