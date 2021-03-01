@@ -13,24 +13,32 @@
 ## My Hobbies
 
 * Build sites
-* Create content for Youtube and IG helping people with coding tips
+* Create content for Youtube **(chicacode)** and IG helping people with coding tips
 * Workout 
-* Study
+* Studyhtml
 * Go out with friends and sometimes watch TV shows
 
-## Stack Technology
+## Stack Technology & Tools
 
-1. [HTML5]:html: - HTML enhanced for web apps!
-1. [CSS3] - awesome web-based text editor
-1. [markdown-it] - Markdown parser done right. Fast and easy to extend.
-1. [JavaScript] - Always for the web
-1. [jQuery] - duh
+* [HTML5] - HTML enhanced for web apps!
+* [CSS3] - Awesome
+* [SASS] - Faster
+* [JavaScript] - Always for the web
+* [jQuery] - duh
+* [React] - FB
+* [TypeScript] - Baby C#
+* [Angular] - Google
+* [NodeJs] - Chrome
+* [MongoDB] - No relational
+* [SQLServer] - Relationals
+* [MySQL] - Relationals
+* [Git] - Version Control Github and Bitbuckets
+* [VisualStudioCode]
 
 ## Contributing
 Let's talk.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
+## Contact me on
+LinkedIn
 ## Created by 
 Geraldine Hernandez Al Attrach
