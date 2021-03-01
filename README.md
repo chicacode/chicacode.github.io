@@ -14,8 +14,8 @@
 
 * Build sites
 * Create content for Youtube **(chicacode)** and IG helping people with coding tips
-* Workout 
-* Studyhtml
+* Workout & Mindfulness having a healthy mind and a healthy body
+* Enjoying learning new things everyday
 * Go out with friends and sometimes watch TV shows
 
 ## Stack Technology & Tools
