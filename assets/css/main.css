@@ -71,6 +71,15 @@ input, select, textarea {
 	appearance: none;
 }
 
+.header__image{
+	width: 100px;
+	transition: width 2s, height 2s, transform 2s;
+}
+
+.header__image:hover {
+    transform: rotate(360deg);
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -2463,22 +2472,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: rgba(17, 9, 9, 0.562) !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: rgba(17, 9, 9, 0.562) !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: rgba(17, 9, 9, 0.562) !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(255, 255, 255, 0.35) !important;
+		color: rgba(17, 9, 9, 0.562) !important;
 		opacity: 1.0;
 	}
 
@@ -3022,7 +3031,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: #2b32b2;
 				content: '';
 				display: block;
 				height: 100%;
